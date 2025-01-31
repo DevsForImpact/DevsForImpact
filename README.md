@@ -94,7 +94,6 @@ We get it. Many nonprofits need tech solutions but don’t have the resources to
 
 - Email: **contact@devsforimpact.com**
 - GitHub: **[@DevsForImpact](https://github.com/DevsForImpact)**
-- Twitter: **[@DevsForImpact](https://twitter.com/DevsForImpact)**
 - Website: **[devsforimpact.com](https://www.devsforimpact.com)** (Coming soon™️)
 
 ---
